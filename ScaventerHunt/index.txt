@@ -1,0 +1,5 @@
+Go to index.html for part 1
+Go to mycss.css for part 2
+http://mercury.picoctf.net:27278/robots.txt for part 3
+http://mercury.picoctf.net:27278/.htacess for part 4
+http://mercury.picoctf.net:27278/.DS_Store for part 5
