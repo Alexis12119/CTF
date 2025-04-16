@@ -1,0 +1,1 @@
+Get the first part on the styles.css and the another one is from the script.js
