@@ -1,0 +1,4 @@
+No need to use burpsuite to solve this challenge.
+
+Just change the code based on your session
+flask-unsign --decode --cookie ".eJw1jUsKAyEQRO_S6yxkRsXOZaTVloTMqPghDCF3j1m4q1dQrz7gn_2COxDBDXyr0fb84jQbhxhlQO0oUFRes9ilNAqV91p4ZkNoxK7D3MVxHDbRyX_R5NzLTJuQG6qJhVp75xrWTXnkxDaN03Fd3Whcl4Hg-wOwHC4Y.Z_-q6A.m36COziJmoWZZojkxXqmPZt5HKQ"
