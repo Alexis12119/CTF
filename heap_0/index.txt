@@ -1,0 +1,1 @@
+Just make sure to input data that overflows the heap. For instance, this one aaaaaaaaaaaaaaaaaaaaaaaaaaaaa and you will now get the flag.
