@@ -1,0 +1,6 @@
+username: joe
+password: joe
+
+Then go to the application tab and change the Admin to True then reload the page.
+
+
