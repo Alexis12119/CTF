@@ -1,0 +1,1 @@
+Go to about.html file then decode the base64 string from the notify_true in the section tag.
