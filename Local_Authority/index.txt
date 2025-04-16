@@ -1,0 +1,1 @@
+View Page Source then go to the login.php and  go again to the secure.js to be able to see the credentials and get the flag
