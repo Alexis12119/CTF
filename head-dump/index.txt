@@ -1,0 +1,11 @@
+Access the heapdump file:
+http://verbal-sleep.picoctf.net:56418/heapdump
+
+Download the heapdump file:
+wget http://verbal-sleep.picoctf.net:56418/heapdump
+
+Open the heapdump file:
+nvim ~/Downloads/heapdump-1744774320412.heapsnapshot
+
+Find the flag:
+picoCTF{Pat!3nt_15_Th3_K3y_bed6b6b8}
