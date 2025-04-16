@@ -1,0 +1,1 @@
+View the Page source and find the flag.
