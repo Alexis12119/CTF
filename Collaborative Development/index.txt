@@ -1,0 +1,1 @@
+Just switch in every branch to get the part of the flag that you need. Use git stash to switch if there's a merge conflict.
