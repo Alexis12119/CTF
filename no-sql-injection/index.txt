@@ -1,0 +1,5 @@
+Username: picoplayer355@picoctf.org
+Password: {"$ne":"null"}
+
+
+Get the token and decode it with base64 to get the flag
